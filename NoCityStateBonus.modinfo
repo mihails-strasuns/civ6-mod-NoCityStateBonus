@@ -5,9 +5,8 @@
     <Description>Removes influence-based yields from city states.</Description>
     <Teaser>Removes influence-based yields from city states.</Teaser>
     <Authors>mist</Authors>
+    <CompatibleVersions>2.0</CompatibleVersions>
   </Properties>
-
-  <CompatibleVersions>2.0</CompatibleVersions>
 
   <Dependencies>
     <Mod id="4873eb62-8ccc-4574-b784-dda455e74e68"/>
